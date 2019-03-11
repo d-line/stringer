@@ -1,12 +1,12 @@
 {
   "name": "Stringer",
   "description": "A self-hosted, anti-social RSS reader.",
-  "logo": "https://raw.githubusercontent.com/swanson/stringer/master/screenshots/logo.png",
+  "logo": "https://raw.githubusercontent.com/d-line/stringer/master/screenshots/logo.png",
   "keywords": [
     "RSS",
     "Ruby"
   ],
-  "website": "https://github.com/swanson/stringer",
+  "website": "https://github.com/d-line/stringer",
   "success_url": "/heroku",
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate"
